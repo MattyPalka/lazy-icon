@@ -10,7 +10,7 @@
     "rollup": "rollup --config"
   },
   "author": "Mateusz Pałka",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^23.0.0",
     "@rollup/plugin-node-resolve": "^15.0.0",
@@ -32,5 +32,9 @@
   "types": "dist/index.d.ts",
   "dependencies": {
     "tslib": "^2.4.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/MattyPalka/lazy-icon/issues"
+  },
+  "homepage": "https://github.com/MattyPalka/lazy-icon"
 }
