@@ -3,9 +3,14 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@MattyPalka"
   },
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "React svg icon with lazy loading and customization",
-  "keywords": ["icon", "svg", "lazy", "react"],
+  "keywords": [
+    "icon",
+    "svg",
+    "lazy",
+    "react"
+  ],
   "scripts": {
     "rollup": "rollup --config"
   },
