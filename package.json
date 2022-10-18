@@ -1,9 +1,9 @@
 {
-  "name": "@MattyPalka/lazy-icon",
+  "name": "@mattypalka/lazy-icon",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@MattyPalka"
   },
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React svg icon with lazy loading and customization",
   "keywords": ["icon", "svg", "lazy", "react"],
   "scripts": {
@@ -34,7 +34,7 @@
     "tslib": "^2.4.0"
   },
   "bugs": {
-    "url": "https://github.com/MattyPalka/lazy-icon/issues"
+    "url": "https://github.com/mattypalka/lazy-icon/issues"
   },
-  "homepage": "https://github.com/MattyPalka/lazy-icon"
+  "homepage": "https://github.com/mattypalka/lazy-icon"
 }
